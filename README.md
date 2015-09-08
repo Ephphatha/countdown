@@ -23,6 +23,8 @@ eg. `./countdown.pl --numbers 100 25 4 7 3 5 297`. The solver will build a set
  value within 10 (above or below) of the target.
 
 ## Todo
+* Numbers mode should order results by distance from target so nearest totals
+  are printed last.
 * Implement teaser mode (same as conundrum but could use less than 9 letters)
 * Improve numbers solver efficiency
 * Add validation to numbers mode
