@@ -3,7 +3,7 @@ Solver for the puzzles featured on the game show Countdown
 
 ## Usage
 Make sure countdown.pl and words.txt are in the same directory, then run
-`./countdown.pl --_mode_ <args>` where mode and args are described below.
+`./countdown.pl --<mode> <args>` where mode and args are described below.
 
 ### Modes
 --letters  
