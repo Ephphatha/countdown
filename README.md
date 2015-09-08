@@ -29,6 +29,9 @@ eg. `./countdown.pl --numbers 100 25 4 7 3 5 297`. The solver will build a set
   * numbers must be positive
   * values > 10 can appear at most once each and must be a multiple of 25
   * values <= 10 can appear twice at most
+* Add validation to letters mode
+  * Minimum three vowels
+  * Minimum four consonants
 
 ## Credits
 Wordlist is a modified/trimmed version of the brit-a-z wordlist compiled by
