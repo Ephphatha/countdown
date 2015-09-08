@@ -15,7 +15,7 @@ eg. `./countdown.pl --letters abcdefghi`. The solver will look for any words in
 --conundrum  
 The same as --letters, but the solver will only consider 9 letter words.
 
---numbers
+--numbers  
 Args should be 7 numbers separated by spaces, the 6 chosen numbers should appear
  first and the target number last.
 eg. `./countdown.pl --numbers 100 25 4 7 3 5 297`. The solver will build a set
